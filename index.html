@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+ <style>
+ .border {background-color: #ccc; padding: 10px; margin: 1%;}
+ </style>
+  </head>
+  <body>
+    	<div class="jumbotron">
+        <div class="container-fluid">
+    	 <div class="row" id="search">
+      <div class="col-md-4">
+        <!-- search bar -->
+      <input type="text" class="form-control" placeholder="search for a specific place"/>
+      </div>
+      <div class="col-md-8">
+        <!-- filters -->
+        <ul class="nav nav-pills" role="tablist">
+          <li role="presentation" class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+            Boundary Type  <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu" role="menu">
+              <li><input type="checkbox"> nations</li>
+              <li><input type="checkbox"> states/provinces</li>
+              <li><input type="checkbox"> counties</li>
+              <li><input type="checkbox"> municipalities</li>
+              <li><input type="checkbox"> uncertain boundaries</li>
+            </ul>
+          </li>
+          <li role="presentation" class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+           License Type  <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu" role="menu">
+              <li><input type="checkbox"> Public Domain</li>
+              <li><input type="checkbox"> MIT</li>
+              <li><input type="checkbox"> Some other license type</li>
+            </ul>
+          </li>
+          <li role="presentation" class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+           Year  <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu" role="menu">
+              <li><input type="checkbox"> 2013</li>
+              <li><input type="checkbox"> 2014</li>
+              <li><input type="checkbox"> 2015</li>
+            </ul>
+          </li>
+          <li><button type="button" class="btn btn-warning" id="bulk">Bulk download</button></li>
+          <li><button type="button" class="btn btn-info">About all these polygons</button></li>
+        </ul>
+      </div>
+    	</div>
+    </div>
+  </div>
+  <div class="container-fluid" id="download" style="display:none;">
+    <div class="row">
+      <div class="col-md-12">
+            <pre>curl https://raw.githubusercontent.com/openpolygons/TIGER2014/master/consolidated/CT/tl_2014_09_concity.geojson > CT_tl_2014_09_concity.geojson</pre>
+      </div>
+    </div>
+
+  </div>
+    <div class="container-fluid">
+    <div class="row">
+     <div class="col-md-4 border">
+      <h2>Connecticut</h2> 
+      <h3>Consolidated City/County Government <a href="#">(?)</a></h3> 
+      <h4>US Census Bureau (TIGER) 2014 | <a href="ftp://ftp2.census.gov/geo/tiger/TIGER2014/concity/tl_2014_09_concity.zip">original file</a></h4>
+      <h4>Public Domain</h4>
+      <h4></h4>
+    </div>
+     <div class='col-md-7'>
+      <script src="https://embed.github.com/view/geojson/openpolygons/TIGER2014/master/consolidated/CT/tl_2014_09_concity.geojson"></script>
+    </div>
+  </div>
+    <div class="row">
+      <div class="col-md-4 border">
+        <h2>Connecticut</h2> 
+        <h3>Consolidated City/County Government <a href="#">(?)</a></h3> 
+        <h4>US Census Bureau (TIGER) 2014 | <a href="ftp://ftp2.census.gov/geo/tiger/TIGER2014/concity/tl_2014_09_concity.zip">original file</a></h4>
+        <h4>Public Domain</h4>
+      </div>
+    <div class='col-md-7'>
+      <script src="https://embed.github.com/view/geojson/openpolygons/TIGER2014/master/consolidated/CT/tl_2014_09_concity.geojson"></script>
+    </div>
+  </div>
+    <div class="row">
+    <div class="col-md-4 border">
+      <h2>Connecticut</h2> 
+      <h3>Consolidated City/County Government <a href="#">(?)</a></h3> 
+      <h4>US Census Bureau (TIGER) 2014 | <a href="ftp://ftp2.census.gov/geo/tiger/TIGER2014/concity/tl_2014_09_concity.zip">original file</a></h4>
+      <h4>Public Domain</h4>
+      <h4></h4>
+    </div>
+    <div class="col-md-7">
+      <script src="https://embed.github.com/view/geojson/openpolygons/TIGER2014/master/consolidated/CT/tl_2014_09_concity.geojson"></script>
+    </div>
+     </div>
+      </div>
+  </div>
+    </div>
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!-- dumb jquery thing for showing a download script -->
+<script type="text/javascript">
+  $('#bulk').click(function() {
+    $('#download').toggle('fast');
+  });
+</script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+</body>
+</html>
