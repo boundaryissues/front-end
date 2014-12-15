@@ -2,11 +2,9 @@
     {
         "files":{},
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master//",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -20,12 +18,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/LA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"LA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "LA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -39,12 +37,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/TN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"TN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "TN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -58,12 +56,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/NE/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NE"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NE"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -77,12 +75,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/PA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"PA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "PA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -96,12 +94,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/FL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"FL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "FL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -115,12 +113,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/AR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -134,12 +132,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/SC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"SC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "SC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -153,12 +151,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/MO/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MO"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MO"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -172,12 +170,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/TX/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"TX"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "TX"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -191,12 +189,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/UT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"UT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "UT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -210,12 +208,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/NJ/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NJ"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NJ"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -229,12 +227,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/VT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -248,12 +246,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/NM/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NM"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NM"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -267,12 +265,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/NV/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NV"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NV"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -286,12 +284,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/NH/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NH"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NH"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -305,12 +303,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/RI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"RI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "RI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -324,12 +322,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/MA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -343,12 +341,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/GA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"GA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "GA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -362,12 +360,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/OH/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OH"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OH"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -381,12 +379,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/MI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -400,12 +398,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/IL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -419,12 +417,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/SD/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"SD"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "SD"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -438,12 +436,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/GU/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"GU"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "GU"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -457,12 +455,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/AL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -476,12 +474,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/AZ/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AZ"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AZ"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -495,12 +493,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/IA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -514,12 +512,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/ND/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ND"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ND"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -533,12 +531,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/DE/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"DE"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "DE"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -552,12 +550,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/OK/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OK"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OK"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -571,12 +569,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/AS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -590,12 +588,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/MP/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MP"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MP"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -609,12 +607,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/MT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -628,12 +626,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/WA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -647,12 +645,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/CO/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CO"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CO"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -666,12 +664,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/PR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"PR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "PR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -685,12 +683,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/CA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -704,12 +702,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/ME/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ME"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ME"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -723,12 +721,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/CT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -742,12 +740,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/NY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -761,12 +759,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/ID/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ID"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ID"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -780,12 +778,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/MD/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MD"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MD"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -799,12 +797,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/AK/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AK"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AK"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -818,12 +816,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/MS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -837,12 +835,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/KS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"KS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "KS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -856,12 +854,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/WY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -875,12 +873,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/MN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -894,12 +892,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/VI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -913,12 +911,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/KY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"KY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "KY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -932,12 +930,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/WI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -951,12 +949,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/OR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -970,12 +968,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/DC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"DC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "DC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -989,12 +987,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/NC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1008,12 +1006,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/HI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"HI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "HI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1027,12 +1025,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/VA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1046,12 +1044,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/IN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1065,12 +1063,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/county/WV/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WV"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WV"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1105,12 +1103,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/LA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"LA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "LA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1152,12 +1150,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/TN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"TN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "TN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1185,12 +1183,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/NE/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NE"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NE"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1232,12 +1230,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/PA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"PA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "PA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1272,12 +1270,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/FL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"FL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "FL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1305,12 +1303,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/AR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1338,12 +1336,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/SC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"SC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "SC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1378,12 +1376,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/MO/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MO"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MO"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1418,12 +1416,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/TX/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"TX"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "TX"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1451,12 +1449,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/UT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"UT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "UT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1505,12 +1503,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/NJ/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NJ"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NJ"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1538,12 +1536,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/VT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1578,12 +1576,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/NM/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NM"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NM"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1611,12 +1609,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/NV/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NV"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NV"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1637,12 +1635,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/NH/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NH"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NH"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1663,12 +1661,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/RI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"RI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "RI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1689,12 +1687,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/MA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1736,12 +1734,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/GA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"GA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "GA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1769,12 +1767,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/OH/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OH"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OH"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1802,12 +1800,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/MI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1842,12 +1840,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/IL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1882,12 +1880,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/SD/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"SD"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "SD"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1901,12 +1899,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/GU/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"GU"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "GU"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1934,12 +1932,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/AL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1967,12 +1965,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/AZ/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AZ"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AZ"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -1993,12 +1991,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/IA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2019,12 +2017,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/ND/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ND"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ND"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2059,12 +2057,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/DE/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"DE"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "DE"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2092,12 +2090,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/OK/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OK"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OK"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2111,12 +2109,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/AS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2130,12 +2128,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/MP/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MP"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MP"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2170,12 +2168,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/MT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2203,12 +2201,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/WA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2236,12 +2234,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/CO/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CO"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CO"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2262,12 +2260,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/PR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"PR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "PR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2295,12 +2293,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/CA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2321,12 +2319,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/ME/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ME"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ME"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2361,12 +2359,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/CT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2394,12 +2392,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/NY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2420,12 +2418,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/ID/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ID"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ID"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2460,12 +2458,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/MD/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MD"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MD"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2500,12 +2498,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/AK/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AK"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AK"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2540,12 +2538,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/MS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2573,12 +2571,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/KS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"KS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "KS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2606,12 +2604,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/WY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2632,12 +2630,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/MN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2658,12 +2656,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/VI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2698,12 +2696,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/KY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"KY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "KY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2731,12 +2729,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/WI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2764,12 +2762,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/OR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2783,12 +2781,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/DC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"DC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "DC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2823,12 +2821,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/NC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2842,12 +2840,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/HI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"HI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "HI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2875,12 +2873,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/VA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2915,12 +2913,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/IN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2962,12 +2960,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/place/WV/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WV"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WV"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2981,11 +2979,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -2999,11 +2995,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3017,11 +3011,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3035,11 +3027,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3053,11 +3043,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3071,11 +3059,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3089,11 +3075,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3107,11 +3091,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3125,11 +3107,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3143,11 +3123,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3161,11 +3139,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3179,11 +3155,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3197,11 +3171,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3215,11 +3187,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3233,11 +3203,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3251,11 +3219,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3269,11 +3235,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3287,11 +3251,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3305,11 +3267,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3323,11 +3283,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3341,11 +3299,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3359,11 +3315,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3377,11 +3331,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3395,11 +3347,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3413,11 +3363,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3431,11 +3379,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3449,11 +3395,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3467,11 +3411,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3485,11 +3427,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3503,11 +3443,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3521,11 +3459,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3539,11 +3475,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3557,11 +3491,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3575,11 +3507,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3593,11 +3523,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3611,11 +3539,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3629,11 +3555,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3647,11 +3571,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/uac/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3664,11 +3586,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/state/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3689,12 +3609,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/LA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"LA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "LA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3708,12 +3628,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/TN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"TN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "TN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3762,12 +3682,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/NE/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NE"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NE"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3816,12 +3736,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/PA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"PA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "PA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3835,12 +3755,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/FL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"FL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "FL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3868,12 +3788,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/AR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3887,12 +3807,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/SC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"SC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "SC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3913,12 +3833,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/MO/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MO"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MO"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3932,12 +3852,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/TX/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"TX"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "TX"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -3951,12 +3871,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/UT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"UT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "UT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4005,12 +3925,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/NJ/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NJ"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NJ"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4045,12 +3965,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/VT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4064,12 +3984,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/NM/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NM"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NM"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4083,12 +4003,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/NV/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NV"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NV"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4144,12 +4064,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/NH/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NH"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NH"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4177,12 +4097,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/RI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"RI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "RI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4210,12 +4130,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/MA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4229,12 +4149,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/GA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"GA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "GA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4269,12 +4189,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/OH/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OH"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OH"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4309,12 +4229,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/MI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4356,12 +4276,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/IL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4403,12 +4323,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/SD/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"SD"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "SD"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4429,12 +4349,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/GU/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"GU"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "GU"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4448,12 +4368,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/AL/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AL"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AL"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4467,12 +4387,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/AZ/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AZ"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AZ"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4500,12 +4420,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/IA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4533,12 +4453,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/ND/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ND"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ND"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4552,12 +4472,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/DE/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"DE"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "DE"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4571,12 +4491,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/OK/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OK"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OK"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4597,12 +4517,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/AS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4623,12 +4543,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/MP/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MP"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MP"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4642,12 +4562,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/MT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4661,12 +4581,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/WA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4680,12 +4600,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/CO/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CO"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CO"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4713,12 +4633,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/PR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"PR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "PR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4732,12 +4652,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/CA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4786,12 +4706,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/ME/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ME"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ME"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4812,12 +4732,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/CT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4866,12 +4786,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/NY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4885,12 +4805,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/ID/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"ID"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "ID"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4911,12 +4831,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/MD/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MD"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MD"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4930,12 +4850,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/AK/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AK"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AK"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4949,12 +4869,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/MS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -4982,12 +4902,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/KS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"KS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "KS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5001,12 +4921,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/WY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5048,12 +4968,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/MN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5074,12 +4994,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/VI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5093,12 +5013,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/KY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"KY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "KY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5133,12 +5053,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/WI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5152,12 +5072,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/OR/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"OR"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "OR"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5171,12 +5091,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/DC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"DC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "DC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5218,12 +5138,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/NC/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"NC"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "NC"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5237,12 +5157,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/HI/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"HI"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "HI"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5277,12 +5197,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/VA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"VA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "VA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5324,12 +5244,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/IN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5350,12 +5270,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/cousub/WV/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"WV"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "WV"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5368,11 +5288,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/native/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5385,11 +5303,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/native/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5402,12 +5318,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/native/AK/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"AK"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "AK"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5420,12 +5336,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/consolidated/TN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"TN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "TN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5438,11 +5354,9 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/consolidated/",
-        "indexes":[
-            {
-                "country":"US"
-            }
-        ],
+        "indexes":{
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5455,12 +5369,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/consolidated/GA/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"GA"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "GA"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5473,12 +5387,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/consolidated/MT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"MT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "MT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5491,12 +5405,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/consolidated/CT/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"CT"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "CT"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5509,12 +5423,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/consolidated/KS/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"KS"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "KS"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5527,12 +5441,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/consolidated/KY/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"KY"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "KY"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     },
     {
@@ -5545,12 +5459,12 @@
             ]
         },
         "prefix":"https://github.com/boundaryissues/TIGER2014/tree/master/consolidated/IN/",
-        "indexes":[
-            {
-                "country":"US",
-                "state":"IN"
-            }
-        ],
+        "indexes":{
+            "states":[
+                "IN"
+            ],
+            "country":"US"
+        },
         "metadata":"METADATA.json"
     }
 ]
